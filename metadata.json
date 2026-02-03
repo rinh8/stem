@@ -1,0 +1,5 @@
+{
+  "name": "AI Audio Stem Separator",
+  "description": "A professional-grade application for separating audio tracks into their constituent stems (vocals, drums, bass, instruments, etc.) using AI. This application simulates the separation process and provides a virtual mixing console for the resulting stems.",
+  "requestFramePermissions": []
+}
